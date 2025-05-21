@@ -35,4 +35,5 @@ This Excel-based dashboard visualizes grocery sales data from Blinkit across var
 **Aryan Harsh**  
 [LinkedIn](https://www.linkedin.com/in/aryan-harsh)  
 📧 harsharyan087@gmail.com
-![2025-05-15 (1)](https://github.com/user-attachments/assets/96f4db8f-1f42-4a4d-a8ca-97a73b01737c)
+![Screenshot 2025-05-17 093948](https://github.com/user-attachments/assets/adfde2a8-7cb1-4547-af5c-d85c7a4eaec4)
+
